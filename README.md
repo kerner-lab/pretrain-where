@@ -4,7 +4,7 @@
 [![PDF](https://img.shields.io/badge/Arxiv-Paper-red)](https://arxiv.org/pdf/2604.21104)
 [![Code](https://img.shields.io/badge/Github-Code-blue?logo=github)](https://github.com/sustainlab-group/SatMAE)
 [![Models](https://img.shields.io/badge/🤗%20HF-Models-orange)](https://huggingface.co/Amandeep10/pretrain-where-SatMAE-weights)
-[![Datasets](https://img.shields.io/badge/🤗%20HF-Datasets-yellow)](https://huggingface.co/Amandeep10/pretrain-where-pretraining_datasets)
+[![Datasets](https://img.shields.io/badge/🤗%20HF-Datasets-yellow)](https://huggingface.co/datasets/Amandeep10/pretrain-where-pretraining-datasets)
 
 </div>
 
